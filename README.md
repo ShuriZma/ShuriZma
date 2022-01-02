@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShuriZma
 - 👀 I’m interested in programming, games and pc-hardware
 - 🌱 I’m currently learning a lot of bullshit
-- 💞️ I’m looking to collaborate on my life
 - 📫 How to reach me: https://discord.shurizma.de
 
 <!---
