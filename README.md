@@ -5,6 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shurizma&theme=onedark" alt="shurizma" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shurizma&show_icons=true&theme=github_dark&locale=en&count_private=true&langs_count=10" alt="shurizma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shurizma&show_icons=true&theme=github_dark&locale=en&langs_count=10" alt="shurizma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shurizma&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="shurizma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shurizma&show_icons=true&theme=github_dark&locale=en&count_private=true&include_all_commits=true" alt="shurizma" /></p>
