@@ -13,7 +13,7 @@
 ![](https://github-readme-stats-mocha-gamma-44.vercel.app/api/top-langs/?username=shurizma&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shurizma&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shurizma&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&no-frame=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
