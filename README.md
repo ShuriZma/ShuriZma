@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>* My new website<br>* A new overwatch 2 workshop mode<br>🌱 I’m currently learning:<br>* How to be less lazy and actually work on stuff even when you don't get paid for it<br>💬 Ask me about:<br>* Nothin. Please don't ask me stuff. Especially not if it's about any of your tech problems. I ain't a personal support.<br>⚡ Fun fact<br>* People stopped askin me if I can hack some account for them.
+🔭 I’m currently working on:<br>* My new website<br>🌱 I’m currently learning:<br>* How to be less lazy and actually work on stuff even when you don't get paid for it<br>💬 Ask me about:<br>* Nothin. Please don't ask me stuff. Especially not if it's about any of your tech problems. I ain't a personal support.<br>⚡ Fun fact<br>* People finally stopped askin me if I can hack some account for them.
 
 
 ## 🌐 Socials:
